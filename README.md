@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssmarinov)]
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssmarinov&layout=compact)](https://github.com/ssmarinov/github-readme-stats)
 
