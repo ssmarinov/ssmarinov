@@ -5,6 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssmarinov&layout=compact)](https://github.com/ssmarinov/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssmarinov&count_private=true)
+
 <!--
 **ssmarinov/ssmarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
